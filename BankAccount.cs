@@ -13,8 +13,6 @@ namespace bankkonto
             if (amount < 0) {
                 throw new ArgumentOutOfRangeException("Invalid amount");
             }
-
-
             if(balance - amount < 0) {
                 Console.WriteLine("You don't have enough money in your account");
             } else {

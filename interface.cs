@@ -48,7 +48,7 @@ namespace bankkonto
                     case ConsoleKey.D2:
                         try{oneaccount.withdraw(OptionInput("Withdraw"));}
                         catch(ArgumentOutOfRangeException exInvalidValue){
-                            Console.WriteLine(exInvalidValue.Message);
+                            Console.WriteLine(exInvalidValue.ParamName);
                         }
                         break;
 
