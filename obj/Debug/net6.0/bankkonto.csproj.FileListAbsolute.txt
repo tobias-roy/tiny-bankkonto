@@ -1,0 +1,15 @@
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/bin/Debug/net6.0/bankkonto
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/bin/Debug/net6.0/bankkonto.deps.json
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/bin/Debug/net6.0/bankkonto.runtimeconfig.json
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/bin/Debug/net6.0/bankkonto.dll
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/bin/Debug/net6.0/bankkonto.pdb
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.csproj.AssemblyReference.cache
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.AssemblyInfoInputs.cache
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.AssemblyInfo.cs
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.csproj.CoreCompileInputs.cache
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.dll
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/refint/bankkonto.dll
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.pdb
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/bankkonto.genruntimeconfig.cache
+/Users/tobiasroy/Documents/Skole/H1/Repositories/bankkonto/obj/Debug/net6.0/ref/bankkonto.dll
